@@ -1,0 +1,21 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx10f820da5858b298",
+# 公众号appSecret
+"app_secret": "600a37b48a65690371d29ccc80951dfd",
+# 模板消息id
+"template_id": "yWmsyk64YBhmeZiTnWrnNtponAy5PfeBG7abyER_SCo",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oV-rH6K2hcAyzpIjj_Wa_5Dt25L0"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "0bf4ad0c977d4054aa7ec11fd68881b5",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "天津市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "梁欣雨", "birthday": "2003-09-25"},
+# 生日2
+"birthday2": {"name": "欧阳烨", "birthday": "2004-01-24"},
+
